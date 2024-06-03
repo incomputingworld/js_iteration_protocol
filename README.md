@@ -13,3 +13,18 @@ This file, too, implements an iterable iterator. However, the implementation of 
 
 ### bookCollection2.js  
 This file implements an iterator protocol, where an iterator object is implemented separately. The function next is part of the iterator class.  
+
+
+## Iteration protocol in Java Script - Part - 2   
+
+### generators.js  
+This file contains generic code that sets the context of this article. Explain the definition of a generator and the different ways of implementing it.  
+
+### bookCollection3.0.js  
+This file implements an iteraable iterator using a generator.  
+
+### bookCollection4.js  
+This file implements an iterator using a generator class.  
+
+### bookCollection5.js  
+This file implements yield * functionality.  
